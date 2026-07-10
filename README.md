@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/phobia666/DSA_Rush/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/phobia666/DSA_Rush/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/phobia666/DSA_Rush/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/phobia666/DSA_Rush/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/phobia666/DSA_Rush/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/phobia666/DSA_Rush/tree/master/0128-longest-consecutive-sequence) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/phobia666/DSA_Rush/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/phobia666/DSA_Rush/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/phobia666/DSA_Rush/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/phobia666/DSA_Rush/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/phobia666/DSA_Rush/tree/master/0141-linked-list-cycle) |
