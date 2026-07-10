@@ -19,9 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/phobia666/DSA_Rush/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/phobia666/DSA_Rush/tree/master/1288-remove-covered-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
