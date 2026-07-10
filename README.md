@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/phobia666/DSA_Rush/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/phobia666/DSA_Rush/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/phobia666/DSA_Rush/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/phobia666/DSA_Rush/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phobia666/DSA_Rush/tree/master/0219-contains-duplicate-ii) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/phobia666/DSA_Rush/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
