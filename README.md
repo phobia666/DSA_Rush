@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/phobia666/DSA_Rush/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/phobia666/DSA_Rush/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/phobia666/DSA_Rush/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/phobia666/DSA_Rush/tree/master/0031-next-permutation) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/phobia666/DSA_Rush/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/phobia666/DSA_Rush/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/phobia666/DSA_Rush/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/phobia666/DSA_Rush/tree/master/0141-linked-list-cycle) |
