@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -38,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/phobia666/DSA_Rush/tree/master/0076-minimum-window-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
