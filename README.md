@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/phobia666/DSA_Rush/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/phobia666/DSA_Rush/tree/master/0202-happy-number) |
+| [1486-xor-operation-in-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/phobia666/DSA_Rush/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/phobia666/DSA_Rush/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
