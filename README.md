@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/phobia666/DSA_Rush/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/phobia666/DSA_Rush/tree/master/0202-happy-number) |
 | [1486-xor-operation-in-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1486-xor-operation-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/phobia666/DSA_Rush/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1486-xor-operation-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
