@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/phobia666/DSA_Rush/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/phobia666/DSA_Rush/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/phobia666/DSA_Rush/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/phobia666/DSA_Rush/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/phobia666/DSA_Rush/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/phobia666/DSA_Rush/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/phobia666/DSA_Rush/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
