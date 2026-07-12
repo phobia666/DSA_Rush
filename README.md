@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/phobia666/DSA_Rush/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/phobia666/DSA_Rush/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/phobia666/DSA_Rush/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phobia666/DSA_Rush/tree/master/0219-contains-duplicate-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/phobia666/DSA_Rush/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/phobia666/DSA_Rush/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/phobia666/DSA_Rush/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1331-rank-transform-of-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/phobia666/DSA_Rush/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/phobia666/DSA_Rush/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/phobia666/DSA_Rush/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/phobia666/DSA_Rush/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
