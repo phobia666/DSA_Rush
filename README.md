@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/phobia666/DSA_Rush/tree/master/0202-happy-number) |
 | [1486-xor-operation-in-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/phobia666/DSA_Rush/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/phobia666/DSA_Rush/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0002-add-two-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/phobia666/DSA_Rush/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
