@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/phobia666/DSA_Rush/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phobia666/DSA_Rush/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/phobia666/DSA_Rush/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/phobia666/DSA_Rush/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/phobia666/DSA_Rush/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
