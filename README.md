@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/phobia666/DSA_Rush/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/phobia666/DSA_Rush/tree/master/0125-valid-palindrome) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/phobia666/DSA_Rush/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String Matching
 |  |
 | ------- |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/phobia666/DSA_Rush/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/phobia666/DSA_Rush/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
