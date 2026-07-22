@@ -11,8 +11,7 @@ public:
 
         while(low <= high){
             if(a[low] + a[high] > limit){
-                if(a[low] > a[high]) low++;
-                else high--;
+                high--;
             }
             else{
                 low++;
