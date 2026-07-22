@@ -10,13 +10,10 @@ public:
         int high = n - 1;
 
         while(low <= high){
-            if(a[low] + a[high] > limit){
-                high--;
-            }
-            else{
+            if(a[low] + a[high] <= limit){
                 low++;
-                high--;
             }
+            high--;
             boats++;
         }
         return boats;
