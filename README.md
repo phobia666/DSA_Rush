@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/phobia666/DSA_Rush/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/phobia666/DSA_Rush/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/phobia666/DSA_Rush/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/phobia666/DSA_Rush/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/phobia666/DSA_Rush/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/phobia666/DSA_Rush/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/phobia666/DSA_Rush/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/phobia666/DSA_Rush/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/phobia666/DSA_Rush/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
