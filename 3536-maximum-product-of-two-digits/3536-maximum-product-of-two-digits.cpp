@@ -1,18 +1,23 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int> digs;
         int x = n;
-        int cnt = 0;
+        int large = 0;
+        int secLarge = 0;
+        int temp = 0;
 
         while(x != 0){
-            digs.push_back(x % 10);
+            int dig = x % 10;
+            if(dig > large){
+                temp = large;
+                large = dig;
+                secLarge = temp;
+            }
+            else if(dig > secLarge){
+                secLarge = dig;
+            }
             x /= 10;
-            cnt++;
         }
-
-        sort(digs.begin(), digs.end());
-
-        return(digs[cnt - 1] * digs[cnt - 2]);
+        return large * secLarge;
     }
 };
