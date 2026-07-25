@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/phobia666/DSA_Rush/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/phobia666/DSA_Rush/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/phobia666/DSA_Rush/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/phobia666/DSA_Rush/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/phobia666/DSA_Rush/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/phobia666/DSA_Rush/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/phobia666/DSA_Rush/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
