@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/phobia666/DSA_Rush/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/phobia666/DSA_Rush/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/phobia666/DSA_Rush/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/phobia666/DSA_Rush/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/phobia666/DSA_Rush/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/phobia666/DSA_Rush/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/phobia666/DSA_Rush/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/phobia666/DSA_Rush/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0345-reverse-vowels-of-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/phobia666/DSA_Rush/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/phobia666/DSA_Rush/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/phobia666/DSA_Rush/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/phobia666/DSA_Rush/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/phobia666/DSA_Rush/tree/master/0881-boats-to-save-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/phobia666/DSA_Rush/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
