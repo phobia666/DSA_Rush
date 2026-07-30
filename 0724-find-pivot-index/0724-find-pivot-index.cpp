@@ -2,21 +2,27 @@ class Solution {
 public:
     int pivotIndex(vector<int>& a) {
         int n = a.size();
-        vector<int> prefSum(n, 0);
-        vector<int> suffSum(n, 0);
 
-        for(int i = 1; i < n; i++){
-            prefSum[i] = prefSum[i - 1] + a[i - 1];
-            int j = n - i - 1;
-            suffSum[j] = suffSum[j + 1] + a[j + 1];
-        }
+        int left = 0;
+        int right = 0;
+        int sum = 0;
 
         for(int i = 0; i < n; i++){
-            if(prefSum[i] == suffSum[i]){
-                return i;
-            }
+            sum += a[i];
         }
-        return -1;
+        
+        int cnt = 0;
 
+        while(cnt < n){
+            right = sum - left - a[cnt];
+            if(right == left){
+                return cnt;
+            }
+            left += a[cnt];
+            cnt++;
+        }
+
+
+        return -1;
     }
 };
