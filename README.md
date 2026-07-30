@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/phobia666/DSA_Rush/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/phobia666/DSA_Rush/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/phobia666/DSA_Rush/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/phobia666/DSA_Rush/tree/master/1991-find-the-middle-index-in-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/phobia666/DSA_Rush/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/phobia666/DSA_Rush/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/phobia666/DSA_Rush/tree/master/1991-find-the-middle-index-in-array) |
 ## Union-Find
 |  |
 | ------- |
