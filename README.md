@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/phobia666/DSA_Rush/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/phobia666/DSA_Rush/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/phobia666/DSA_Rush/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/phobia666/DSA_Rush/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/phobia666/DSA_Rush/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/phobia666/DSA_Rush/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/phobia666/DSA_Rush/tree/master/0881-boats-to-save-people) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/phobia666/DSA_Rush/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/phobia666/DSA_Rush/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/phobia666/DSA_Rush/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/phobia666/DSA_Rush/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/phobia666/DSA_Rush/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1331-rank-transform-of-an-array) |
 ## Sliding Window
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/phobia666/DSA_Rush/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/phobia666/DSA_Rush/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/phobia666/DSA_Rush/tree/master/1991-find-the-middle-index-in-array) |
 ## Union-Find
