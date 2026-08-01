@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/phobia666/DSA_Rush/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/phobia666/DSA_Rush/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/phobia666/DSA_Rush/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/phobia666/DSA_Rush/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/phobia666/DSA_Rush/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0918-maximum-sum-circular-subarray) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phobia666/DSA_Rush/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/phobia666/DSA_Rush/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/phobia666/DSA_Rush/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/phobia666/DSA_Rush/tree/master/1052-grumpy-bookstore-owner) |
 ## Math
 |  |
