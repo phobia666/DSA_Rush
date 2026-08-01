@@ -6,23 +6,25 @@ public:
         int sum = 0;
         int maxSum = INT_MIN;
         int low = 0;
-        int high = 0;
+        int high = k;
+
+        for(int i = 0; i < k; i++){
+            sum += a[i];
+        }
+
+        maxSum = max(maxSum, sum);
+
+
 
         while(high < n){
-            if(high - low < k){
-                sum += a[high];
-                high++;
-                if(high - low == k){
-                    maxSum = max(maxSum, sum);
-                }
-            }
-            else{
-                sum += a[high];
-                sum -= a[low];
-                maxSum = max(maxSum, sum);
-                low++;
-                high++;
-            }
+        
+            sum += a[high];
+            sum -= a[low];
+            
+            maxSum = max(maxSum, sum);
+            low++;
+            high++;
+        
         }
 
         avg = (double) maxSum / k;
