@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/phobia666/DSA_Rush/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/phobia666/DSA_Rush/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/phobia666/DSA_Rush/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/phobia666/DSA_Rush/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/phobia666/DSA_Rush/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/phobia666/DSA_Rush/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/phobia666/DSA_Rush/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/phobia666/DSA_Rush/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/phobia666/DSA_Rush/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -264,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/phobia666/DSA_Rush/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
