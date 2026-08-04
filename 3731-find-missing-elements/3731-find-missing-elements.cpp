@@ -2,19 +2,19 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& a) {
         int n = a.size();
-        unordered_set<int> st;
+        vector<bool> check(101, false);
         vector<int> ans;
-        int small = INT_MAX;
-        int big = INT_MIN;
+        int small = 101;
+        int big = 0;
 
         for(int i = 0; i < n; i++){
             small = min(small, a[i]);
             big = max(big, a[i]);
-            st.insert(a[i]);
+            check[a[i]] = true;
         }
 
         for(int i = small + 1; i < big; i++){
-            if(st.find(i) == st.end()){
+            if(!check[i]){
                 ans.push_back(i);
             }
         }
