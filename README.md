@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/phobia666/DSA_Rush/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/phobia666/DSA_Rush/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/phobia666/DSA_Rush/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/phobia666/DSA_Rush/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/phobia666/DSA_Rush/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/phobia666/DSA_Rush/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/phobia666/DSA_Rush/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/phobia666/DSA_Rush/tree/master/1052-grumpy-bookstore-owner) |
+| [1652-defuse-the-bomb](https://github.com/phobia666/DSA_Rush/tree/master/1652-defuse-the-bomb) |
 ## Math
 |  |
 | ------- |
