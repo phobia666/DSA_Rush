@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/phobia666/DSA_Rush/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/phobia666/DSA_Rush/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/phobia666/DSA_Rush/tree/master/1052-grumpy-bookstore-owner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/phobia666/DSA_Rush/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/phobia666/DSA_Rush/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/phobia666/DSA_Rush/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/phobia666/DSA_Rush/tree/master/0594-longest-harmonious-subsequence) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/phobia666/DSA_Rush/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/phobia666/DSA_Rush/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/phobia666/DSA_Rush/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/phobia666/DSA_Rush/tree/master/3731-find-missing-elements) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/phobia666/DSA_Rush/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/phobia666/DSA_Rush/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/phobia666/DSA_Rush/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/phobia666/DSA_Rush/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/phobia666/DSA_Rush/tree/master/1991-find-the-middle-index-in-array) |
 ## Union-Find
 |  |
