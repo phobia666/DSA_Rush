@@ -7,16 +7,13 @@ public:
         int cntOne = 0;
         int cntZero = 0;
         int diff;
+        f[0] = -1;
 
         for(int i = 0; i < n; i++){
             if(a[i] == 1) cntOne++;
             else cntZero++;
 
             diff = cntOne - cntZero;
-
-            if(diff == 0){
-                ans = max(ans, i + 1);
-            }
 
             if(f.find(diff) != f.end()){
                 ans = max(ans, i - f[diff]);
