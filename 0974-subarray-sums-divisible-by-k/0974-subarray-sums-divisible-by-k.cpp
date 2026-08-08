@@ -11,11 +11,9 @@ public:
 
         for(int i = 0; i < n; i++){
             sum += a[i];
-            if(sum < 0 && sum % k != 0){
-                rem = k - (abs(sum) % k);
-            }
-            else{
-                rem = sum % k;
+            rem = sum % k;
+            if(rem < 0){
+                rem += k;
             }
             
             if(mp.find(rem) != mp.end()){
