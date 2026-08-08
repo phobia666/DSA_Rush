@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/phobia666/DSA_Rush/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/phobia666/DSA_Rush/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/phobia666/DSA_Rush/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/phobia666/DSA_Rush/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/phobia666/DSA_Rush/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/phobia666/DSA_Rush/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/phobia666/DSA_Rush/tree/master/0918-maximum-sum-circular-subarray) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/phobia666/DSA_Rush/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/phobia666/DSA_Rush/tree/master/0349-intersection-of-two-arrays) |
+| [0821-shortest-distance-to-a-character](https://github.com/phobia666/DSA_Rush/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/phobia666/DSA_Rush/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/phobia666/DSA_Rush/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/phobia666/DSA_Rush/tree/master/2396-strictly-palindromic-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/phobia666/DSA_Rush/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/phobia666/DSA_Rush/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/phobia666/DSA_Rush/tree/master/0345-reverse-vowels-of-a-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/phobia666/DSA_Rush/tree/master/0821-shortest-distance-to-a-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/phobia666/DSA_Rush/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/phobia666/DSA_Rush/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/phobia666/DSA_Rush/tree/master/3499-maximize-active-section-with-trade-i) |
