@@ -12,7 +12,7 @@ public:
             mpp[s[high]]++;
 
             while(mpp[s[high]] > 2){
-                if(mpp[s[low] == 1]){
+                if(mpp[s[low]] == 1 ){
                     mpp.erase(s[low]);
                 }
                 else{
