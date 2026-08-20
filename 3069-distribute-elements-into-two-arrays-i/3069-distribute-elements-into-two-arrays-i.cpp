@@ -7,17 +7,15 @@ public:
 
         a1.push_back(a[0]);
         a2.push_back(a[1]);
-        int one = 0;
-        int two = 0;
 
         for(int i = 2; i < n; i++){
-            if(a1[one] > a2[two]){
+            if(a1.back() > a2.back()){
                 a1.push_back(a[i]);
-                one++;
+                
             }
             else{
                 a2.push_back(a[i]);
-                two++;
+                
             }
         }
 
