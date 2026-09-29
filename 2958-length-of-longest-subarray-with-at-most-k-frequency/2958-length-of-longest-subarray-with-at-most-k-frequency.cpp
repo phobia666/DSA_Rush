@@ -10,12 +10,7 @@ public:
         while(high < n){
             mpp[a[high]]++;
             while(mpp[a[high]] > k){
-                if(mpp.find(a[low]) == mpp.end()){
-                    mpp.erase(a[low]);
-                }
-                else{
-                    mpp[a[low]]--;
-                }
+                mpp[a[low]]--;
                 low++;
             }
             ans = max(ans, high - low + 1);
