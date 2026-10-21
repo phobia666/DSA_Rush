@@ -10,34 +10,26 @@ public:
             }
         }
 
-        return allOdd(nums, smOd) || allEven(nums, smOd);
-
-    }
-
-    bool allOdd(vector<int>& nums, int odd){
-        int n = nums.size();
+        bool Ev = true;
+        bool Od = true;
 
         for(int i = 0; i < n; i++){
             if(nums[i] % 2 == 0){
-                if(nums[i] < odd){
-                    return false;
+                if(nums[i] < smOd){
+                    Od = false;
+                    break;
                 }
             }
         }
-        return true;
-
-    }
-
-    bool allEven(vector<int>& nums, int odd){
-        int n = nums.size();
 
         for(int i = 0; i < n; i++){
             if(nums[i] % 2 != 0){
-                if(nums[i] <= odd){
-                    return false;
+                if(nums[i] <= smOd){
+                    Ev = false;
+                    break;
                 }
             }
-        }
-        return true;
+        }        
+        return Ev || Od;
     }
 };
