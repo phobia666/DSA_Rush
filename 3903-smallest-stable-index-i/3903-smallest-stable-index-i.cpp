@@ -1,22 +1,25 @@
 class Solution {
 public:
-    int firstStableIndex(vector<int>& a, int k) {
-        int n = a.size();
-        int bg = INT_MIN;
-        int sm = INT_MAX;
-        int inscore;
+    int firstStableIndex(vector<int>& nums, int k) {
+        int n = nums.size();
 
-        for(int i = 0; i < n; i++){
-            bg = max(bg, a[i]);
-            sm = INT_MAX;
-            for(int j = i; j < n; j++){
-                sm = min(sm, a[j]);
+        for (int i = 0; i < n; i++) {
+            int leftMax = nums[0];
+            int rightMin = nums[i];
+
+            for (int j = 0; j <= i; j++) {
+                leftMax = max(leftMax, nums[j]);
             }
-            inscore = bg - sm;
-            if(inscore <= k){
+
+            for (int j = i; j < n; j++) {
+                rightMin = min(rightMin, nums[j]);
+            }
+
+            if (leftMax - rightMin <= k) {
                 return i;
             }
         }
+
         return -1;
     }
 };
